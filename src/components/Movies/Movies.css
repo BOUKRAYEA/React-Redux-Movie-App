@@ -1,0 +1,11 @@
+.movieContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.movieCard{
+    width: "18rem";
+    margin: "0 20px 20px 0";
+}
